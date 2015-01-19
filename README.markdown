@@ -1,4 +1,6 @@
-Add "class" attribute to availableAttrs for proper css class handling with svg.
+﻿Added "class" attribute to availableAttrs for proper css class handling with svg.
+
+Fixed some IE bug, see commits for details.
 
 ---
 
